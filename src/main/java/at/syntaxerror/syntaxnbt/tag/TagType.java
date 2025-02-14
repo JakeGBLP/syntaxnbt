@@ -31,7 +31,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * This enum contains all valid types of NBT tags.<br>
- * Information according to <a href="https://wiki.vg/NBT#Specification">wiki.vg</a>
+ * Information according to <a href="https://minecraft.wiki/w/Minecraft_Wiki:Projects/wiki.vg_merge/NBT#Specification">wiki.vg (minecraft.wiki)</a>
  * 
  * @author SyntaxError404
  */
