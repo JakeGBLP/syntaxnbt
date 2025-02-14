@@ -4,7 +4,7 @@ A NBT and SNBT library for Java (17)
 
 ## Overview
 
-This is an implementation for serializing, deserializing, parsing, and stringifying NBTs (Named Binary Tags) by [Mojang Studios](https://mojang.com), according to this [specification](https://wiki.vg/NBT).
+This is an implementation for serializing, deserializing, parsing, and stringifying NBTs (Named Binary Tags) by [Mojang Studios](https://mojang.com), according to this [specification](https://minecraft.wiki/w/Minecraft_Wiki:Projects/wiki.vg_merge/NBT).
 
 ## Getting started
 
